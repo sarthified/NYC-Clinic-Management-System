@@ -42,4 +42,4 @@ The program contains database setup code and creates the medicine CSV file when 
 
 ## Project Note
 
-This project was developed as a Class 12 Computer Science project to practise Python programming, database connectivity, SQL queries, and file handling.
+This project was developed as a Class 12 project to practise Python programming, database connectivity, SQL queries, and file handling.
