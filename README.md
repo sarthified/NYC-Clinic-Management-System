@@ -43,3 +43,14 @@ The program contains database setup code and creates the medicine CSV file when 
 ## Project Note
 
 This project was developed as a Class 12 project to practise Python programming, database connectivity, SQL queries, and file handling.
+
+## Copyright and Attribution
+
+Copyright © 2026 SARTHAK JAIN. All rights reserved except as expressly permitted by the project's license.
+
+If you use or modify this project, please credit the original author and link back to this repository.
+
+Original project: https://github.com/sarthified/NYC-Clinic-Management-System
+
+Please do not misrepresent the original project as your own work.
+
